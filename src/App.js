@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title="You own store of Nifty NFTs. Start Selling & Growing"
+        title="Your own store of Nifty NFTs. Start Selling & Growing"
         description="Buy, store, collect NFTS, exchange & earn crypto."
         showBtn
         mockupImg={assets.homeHero}
